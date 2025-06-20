@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Suchitra Guduru</h1>
-<h3 align="center">Wev Developer | Programmer | Learner</h3>
+<h1 align="center">Hi 👋, I'm Suchitra Guduru</h1
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suchitraguduru&label=Profile%20views&color=0e75b6&style=flat" alt="suchitraguduru" /> </p>
 
